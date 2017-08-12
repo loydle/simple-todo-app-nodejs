@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+.logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.done {
+    text-decoration: line-through;
+}
